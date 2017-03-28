@@ -1,7 +1,7 @@
-// for command lie git tutorial
-// Local repository modification
+// For command lie git tutorial
+// First : Github modification
+// Second : Local repository modification
 
 print("Hello1")
 print("Hello1Master")
 print("helloHofix")
-
